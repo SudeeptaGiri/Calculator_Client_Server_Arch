@@ -38,7 +38,7 @@ To run the Basic Calculator, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd basic-calculator
+   cd .\Calculator_Client_Server_Arch\
    ```
 3. Build and run the server:
 
