@@ -35,22 +35,23 @@ To run the Basic Calculator, follow these steps:
    ```bash
    git clone https://github.com/your-username/basic-calculator.git
    ```
-## Navigate to the project directory:
+2. Navigate to the project directory:
 
-```bash
-cd basic-calculator
-```
-## Build and run the server:
-```bash
-javac Calc_Server.java
-java Calc_Server
-```
-## Build and run the client on another machine:
+   ```bash
+   cd basic-calculator
+   ```
+3. Build and run the server:
 
-```bash
-javac Calc_Client.java
-java Calc_Client
-```
+   ```bash
+   javac Calc_Server.java
+   java Calc_Server
+   ```
+4. Build and run the client on another machine:
+
+   ```bash
+   javac Calc_Client.java
+   java Calc_Client
+   ```
 
 ## Contributing
 We welcome contributions to enhance the functionality, performance, and documentation of the Basic Calculator project. Feel free to open issues, submit pull requests, or participate in discussions.
