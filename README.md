@@ -33,7 +33,7 @@ To run the Basic Calculator, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/basic-calculator.git
+   git clone https://github.com/SudeeptaGiri/Calculator_Client_Server_Arch.git
    ```
 2. Navigate to the project directory:
 
